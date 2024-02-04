@@ -28,7 +28,7 @@
 |SUSTECH CRA|https://mirrors.sustech.edu.cn/|https://github.com/SUSTech-CRA/ccse-mirrors-web/|vuepress|vue|bootstrap||
 |TUNA|https://mirrors.tuna.tsinghua.edu.cn/|https://github.com/tuna/mirror-web|jekyll|vue|bootstrap|jquery|
 |UESTC LUG|http://mirrors.uestc.cn/|https://mirrors.ustc.edu.cn/|||||
-|USTC|https://mirrors.ustc.edu.cn/|https://git.lug.ustc.edu.cn/mirrors/mirrors-index|||||
+|USTC|https://mirrors.ustc.edu.cn/|https://git.lug.ustc.edu.cn/mirrors/mirrors-index||sphinx|||
 |WSYU|https://mirrors.wsyu.edu.cn/||||||
-|XTOM|https://mirrors.xtom.com/|https://git.lug.ustc.edu.cn/mirrors/mirrors-index|||||
+|XTOM|https://mirrors.xtom.com/|https://git.lug.ustc.edu.cn/mirrors/mirrors-index||sphinx|||
 |ZJU|https://mirrors.zju.edu.cn/|https://github.com/ZJUSCT/mirror-front|gatsby|react|mui|preact|
